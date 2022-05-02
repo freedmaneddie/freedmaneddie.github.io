@@ -2,15 +2,21 @@
 layout: default
 ---
 
-## About Me
+# About Me
 
 <img class="profile-picture" src="sherlock.jpg">
 
 Hi, I'm Edward! I am a Master of Engineering Student at Cornell University studying Operations Research and Information Engineering. I am interested in pursuing data science or quantitative finance roles after my graduation in December of 2022.
 
-## Previous Experience
+# Previous Experience
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+## PayPal: Incoming Decision Scientist Intern 
+
+## Johnosn & Johnson: Data Scientist (Master of Engineering Project)
+
+## Peraton Labs: Data Science Intern
+
+## Dataminr: Research & Software Engineering Intern
 
 ## Publications
 
