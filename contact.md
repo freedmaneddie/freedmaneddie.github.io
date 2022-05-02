@@ -19,4 +19,4 @@ is_contact: true
 
 ## Social
 
-1. [LinkedIn](#)
+1. [LinkedIn](https://www.linkedin.com/in/edward-freedman/)
