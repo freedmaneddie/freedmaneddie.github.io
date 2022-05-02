@@ -10,40 +10,44 @@ Hi, I'm Edward! I am a Master of Engineering Student at Cornell University study
 
 # Previous Experience
 
-## PayPal: Incoming Decision Scientist Intern 
+### PayPal: Incoming Decision Scientist Intern 
 
-## Johnosn & Johnson: Data Scientist (Master of Engineering Project)
+* PayPal's Buy Now, Pay Later Team
+* Dates: June 2022 - August 2022
 
-## Peraton Labs: Data Science Intern
+### Johnosn & Johnson: Data Scientist (Master of Engineering Project)
 
-## Dataminr: Research & Software Engineering Intern
+* Model patient referral patterns from general physicians to medical specialists for Uptravi and Opsumit prescriptions which generate more than $2.5 billion in annual revenue
+* Utilize ML techniques to identify influential health care providers that help treat Pulmonary Arterial Hypertension patients for more effective sales targeting
+* Develop data pipeline using thousands of medical insurance claims to conduct network analytics and health care provider classification using Dataiku and PySpark
+* Dates: January 2022 - May 2022
 
-## Publications
+### Peraton Labs: Data Science Intern
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+* Built virtual dashboard for over 700 U.S. military bases using Plotly and Dash Python packages to visualize cybersecurity anomalies in military internet and communications
+* Created developer-facing dashboard to provide real-time health metrics and performance of machine learning model's course-of-action determination
+* Directly collaborated with the project director and lead developer on user interface design
+* Implemented dashboards in Docker containers for use in remote machines
+* Developed methodology to efficiently query more than 100,000 records of Prefect data from Elastic to use in dashboards
+* Dates: June 2021 - August 2021
 
-## Typography
+### Dataminr: Research & Software Engineering Intern
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+* Designed approach to identify supply chain disruptions in real-time from over 5,000 daily Dataminr alerts using Looker
+* Extracted 200 alert captions and more than 1,000 news headlines describing supply chain disruptions to use in predictive modeling and text similarity analysis
+* Created machine learning model to predict abnormal spikes in Twitter activity following supply chain disruptions using Scikit-learn, TF-IDF and Word2vec
+* Developed methodology to match past Dataminr alert captions with corporate news headlines using NLTK
+* Investigated ways to detect early warning signs of future corporate action resulting from previous supply chain disruptions using NLP techniques
+* Presented findings and models to six company executives to explore viability of a new supply chain corporate risk product
+* Dates: June 2020 - August 2020
 
-Here is a table
+# Education
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+### Cornell University: Master of Engineering
 
-Here is a horizontal rule
+* Operations Research and Information Engineering with a concentration in Data Analytics
 
----
+### Cornell University: Bachelor of Science
 
-Here is a blockquote
+* Operations Research and Engineering with a minor in Computer Science
 
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
