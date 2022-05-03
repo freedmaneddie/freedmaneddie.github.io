@@ -8,6 +8,8 @@ layout: default
 
 Hi, I'm Edward! I am a Master of Engineering Student at Cornell University studying Operations Research and Information Engineering. I am interested in pursuing data science or quantitative finance roles after my graduation in December of 2022.
 
+---
+
 # Previous Experience
 
 ## PayPal: Incoming Decision Scientist Intern 
@@ -15,12 +17,16 @@ Hi, I'm Edward! I am a Master of Engineering Student at Cornell University study
 * PayPal's Buy Now, Pay Later Team
 * June 2022 - August 2022
 
+---
+
 ## Johnson & Johnson: Data Scientist (M.Eng. Project)
 
 * Model patient referral patterns from general physicians to medical specialists for Uptravi and Opsumit prescriptions which generate more than $2.5 billion in annual revenue
 * Utilize ML techniques to identify influential health care providers that help treat Pulmonary Arterial Hypertension patients for more effective sales targeting
 * Develop data pipeline using thousands of medical insurance claims to conduct network analytics and health care provider classification using Dataiku and PySpark
 * January 2022 - May 2022
+
+---
 
 ## Peraton Labs: Data Science Intern
 
@@ -30,6 +36,8 @@ Hi, I'm Edward! I am a Master of Engineering Student at Cornell University study
 * Implemented dashboards in Docker containers for use in remote machines
 * Developed methodology to efficiently query more than 100,000 records of Prefect data from Elastic to use in dashboards
 * June 2021 - August 2021
+
+---
 
 ## Dataminr: Research & Software Engineering Intern
 
@@ -41,7 +49,11 @@ Hi, I'm Edward! I am a Master of Engineering Student at Cornell University study
 * Presented findings and models to six company executives to explore viability of a new supply chain corporate risk product
 * June 2020 - August 2020
 
+---
+
 # Education
+
+---
 
 ## Cornell University: Master of Engineering
 
