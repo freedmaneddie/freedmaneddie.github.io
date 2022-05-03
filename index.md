@@ -12,6 +12,8 @@ Hi, I'm Edward! I am a Master of Engineering Student at Cornell University study
 
 # Previous Experience
 
+---
+
 ## PayPal: Incoming Decision Scientist Intern 
 
 * PayPal's Buy Now, Pay Later Team
