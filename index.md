@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile-photo.jpeg">
 
-Hi, I'm Edward! I am a Master of Engineering Student at Cornell University studying Operations Research and Information Engineering. I am interested in pursuing data science or quantitative finance roles after my graduation in December of 2022.
+Hi, I'm Eddie! I am a Master of Engineering Student at Cornell University studying Operations Research and Information Engineering. I am interested in pursuing data science roles in consulting, finance, or technology after I graduate in December.
 
 ---
 
@@ -14,9 +14,14 @@ Hi, I'm Edward! I am a Master of Engineering Student at Cornell University study
 
 ---
 
-## PayPal: Incoming Decision Scientist Intern 
+## PayPal: Decision Scientist Intern 
 June 2022 - August 2022
 * PayPal's Buy Now, Pay Later Team
+* Analyzed the impact of a U.S. PayPal merchants adding a Buy Now, Pay Later (BNPL) competitor to their website
+* Implemented time series analysis methods in R to predict drops in PayPal purchase volume after a BNPL competitor addition using over 100 weeks of transaction data per merchant
+* Used machine learning techniques to find similarity matches for over 4,000 merchants to use in causal impact modeling
+* Created structured methodology using SQL to extract and organize relevant data from over 40 million daily transactions to expedite future analysis of non-US merchants by several weeks
+* Provide PayPal’s marketing and sales teams with budgeting strategy for establishing exclusive PayPal merchant partnerships to prevent future revenue losses due to BNPL competitors
 
 ---
 
@@ -66,6 +71,6 @@ August 2018 - May 2022
 
 * Operations Research and Engineering with a minor in Computer Science
 
-
-
+### Skills
+Python, SQL, Microsoft Excel, Tableau, Looker, Elasticsearch, Java
 
