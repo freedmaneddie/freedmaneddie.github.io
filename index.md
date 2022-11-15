@@ -71,6 +71,8 @@ August 2018 - May 2022
 
 * Operations Research and Engineering with a minor in Computer Science
 
+---
+
 ### Skills
 Python, SQL, Microsoft Excel, Tableau, Looker, Elasticsearch, Java
 
