@@ -14,16 +14,12 @@ I'm actively looking for full-time roles in data science, quantitative finance, 
 
 # Previous Experience
 
----
-
 ## PayPal: Decision Scientist Intern 
 June 2022 - August 2022
 * Analyzed the impact of U.S. PayPal merchants adding Buy Now, Pay Later (BNPL) competitors as payment options to their checkout pages
 * Implemented time series analysis methods in R to estimate changes in PayPal purchase volume after PayPal merchants add a BNPL competitor using over 100 weeks of transaction data per merchant
 * Used machine learning techniques to generate similarity matches for over 4,000 merchants for use in causal impact modeling
 * Created an SQL methodology to extract and organize relevant time series data from over 40 million daily transactions, expediting future analysis of non-U.S. merchants by several weeks
-
----
 
 ## Johnson & Johnson: Data Scientist (M.Eng. Project)
 January 2022 - May 2022
@@ -33,8 +29,6 @@ January 2022 - May 2022
 * Utilized network analytics to identify general healthcare providers that referred Pulmonary Hypertension patients to expert cardiologists that accurately diagnosed the disease, shortening the diagnosis time by up to six months
 * Created an interactive Tableau dashboard to visualize over 250,000 Pulmonary Hypertension patient referrals
 
----
-
 ## Peraton Labs: Data Science Intern
 June 2021 - August 2021
 
@@ -43,8 +37,6 @@ June 2021 - August 2021
 * Directly collaborated with the project director and lead developer to design the user interface of the dashboards based on client priorities
 * Implemented the dashboards in Docker containers for use in remote machines
 * Developed a methodology to efficiently query more than 100,000 records of Prefect data from Elastic to use in the dashboards
-
----
 
 ## Dataminr: Research & Software Engineering Intern
 June 2020 - August 2020
@@ -56,8 +48,6 @@ June 2020 - August 2020
 ---
 
 # Education
-
----
 
 ## Cornell University: Master of Engineering
 January 2022 - December 2022
